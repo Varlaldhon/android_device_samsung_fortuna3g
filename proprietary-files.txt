@@ -1,4 +1,4 @@
-# Samsung Package Version G530HXXS2BQB1_G530HODD2BPG1 (unless otherwise specified and/or tagged)
+# Samsung Package Version G530BTVJS1BPK1_G530BTZTO1BPJ1 (unless otherwise specified and/or tagged)
 
 # ACDBs
 etc/Bluetooth_cal.acdb
@@ -87,8 +87,8 @@ vendor/lib/libqmi.so
 vendor/lib/lib-sec-disp.so
 
 # RIL
-lib/libsec-ril.so|dc359a4a1c39cd80b4b66fe8e0c91b79
-lib/libsec-ril-dsds.so|89bc1cbefeae3c1821cdacd56b989920
+lib/libsec-ril.so|058ee6d248dbc5a8248442328d312e7c
+lib/libsec-ril-dsds.so|72ab7c13479f3a51cd74793be8c249a1
 
 # Sensors
 etc/calib_SI_matrix_data_file.dat
